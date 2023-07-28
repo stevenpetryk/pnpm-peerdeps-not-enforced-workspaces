@@ -1,0 +1,7 @@
+{
+  "name": "common",
+  "main": "index.js",
+  "peerDependencies": {
+    "webpack": "5.88.2"
+  }
+}
